@@ -10,11 +10,11 @@ as{*+
 
 Enter the productions:
 
-Enter the production for E (End the production with 'S'sing ):a+s$
+Enter the production for E (End the production with '$'sing ):a+s$
 
-Enter the production for R (End the production with 'S'sing ):{$
+Enter the production for R (End the production with '$'sing ):{$
 
-Enter the production for T (End the production with 'S'sing ):Rs$
+Enter the production for T (End the production with '$'sing ):Rs$
 
 The production for E ->a+s
 The production for R ->{
