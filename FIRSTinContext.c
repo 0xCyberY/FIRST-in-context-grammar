@@ -30,7 +30,7 @@ printf("\nEnter the productions:\n");
 for(i=0;i<nont;i++)
    {
 	scanf("%c",&temp);
-	printf("\nEnter the production for %c (End the production with 'S'sing ):",p[i][0]);
+	printf("\nEnter the production for %c (End the production with '$'sing ):",p[i][0]);
 	for(j=0;p[i][j]!='$';)
 	{
 		j+=1;
