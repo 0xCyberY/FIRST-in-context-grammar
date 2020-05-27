@@ -1,0 +1,27 @@
+Enter the no. of Non-terminals in the grammer:3
+
+Enter the Non-trminals in the grammer:
+ERT
+
+Enter the no. of terminals in the grammer:(Enter { for absiline )5
+
+Enter the terminals in the grammer:
+as{*+
+
+Enter the productions:
+
+Enter the production for E (End the production with 'S'sing ):a+s$
+
+Enter the production for R (End the production with 'S'sing ):{$
+
+Enter the production for T (End the production with 'S'sing ):Rs$
+
+The production for E ->a+s
+The production for R ->{
+The production for T ->Rs
+
+The first of E -> a
+
+The first of R -> {
+
+The first of T -> {     s
